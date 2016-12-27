@@ -3,7 +3,7 @@ title: Andrew Appleby
 email: andrewappleby22@gmail.com
 url: https://applebya.github.io
 description: "" # TODO
-skills: "JS Developer  -  UI Designer  -  Nice Guy"
+skills: "JS Developer  -  UI Designer  -  Nice Dude"
 meta_author: Appleby Andrew
 
 # Google webmaster tools # TODO
@@ -27,7 +27,7 @@ color:
   primary: 422f1f #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 422f1f #FD6E8A
-  secondary-dark: 422f1f #A2122F
+  secondary-dark: 8c5b33 #A2122F
 
 # Footer settings
 footer:
