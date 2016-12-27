@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+img: konote.jpg
+alt: KoNote
+project-date: 2014 - current
+client: KoNote
+category: Desktop App Development, NWjs, React, DB Architecture
+description: My main focus since 2014, KoNote (<a href="https://konote.ca/" target="_blank">https://konote.ca/</a>) is a "client-centred instrument of collaborative care", which facilitates the tracking of both quantitative + qualitatative data at the same time, and powerful analytical tools to aid in ongoing treatment. I contributed to all parts of this app, including all major features, and helped build its custom database. It is currently piloting in several mental health centres, with a public release scheduled for 2017.
 
 ---

@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Matsinc Quoting App
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: matsinc.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+client: IdDigital
+category: CakePHP, HTML5, Javascript, Web App Development, Project Management
+description: Front-line sales tool, which streamlines the Quote -> Order process while in-store with a customer. The many (often unique) factors involved in calculating quotes for mats made this a fun challenge - and now they no longer have to do this manually :)<br><br>The app also included a multi-tiered user system, admin panels for fine-tuning prices/discounts panels, and few other handy features.
 
 ---

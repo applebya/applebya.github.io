@@ -2,11 +2,11 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: fetes.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+client: Master Mobile Marketing
+category: Mobile Marketing, Campaign & Graphic Design, Mobile Web Design
+description: I was tasked to lead our company's first major festival campaign for Les Fêtes Gourmandes in Lasalle QC, a yearly 3-day food festival - right up my alley! We prepared a full concept presentation, and proceeded to design & develop all of the signage, SMS, and web components for each attraction in the festival. Our signage funnelled people into the mobile campaign, provided a mobile guide, and notified them of scheduled deals & giveaways by SMS. The campaign captured a significant share of visitors, and had a big impact on engagement and return visits.
 
 ---
