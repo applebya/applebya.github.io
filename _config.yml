@@ -32,14 +32,16 @@ color:
 # Footer settings
 footer:
   copyright: Andrew Appleby
-  location: West Coast!
+  location: West Coast
   social: Friends?
-  credits: Credits?
+  credits: Thanks
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: http://github.com/applebya
+  - title: linkedin
+    url: http://linkedin.com/andrewappleby22
   - title: twitter
     url: http://twitter.com/drums_dev
   - title: instagram
@@ -50,7 +52,7 @@ address:
   - line: Victoria, BC, Canada
 
 # Credits content
-credits: 'credits?'
+credits: Freelancer Template<br>Font Awesome
 
 # Build settings
 markdown: kramdown
