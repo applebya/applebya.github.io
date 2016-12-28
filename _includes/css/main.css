@@ -93,14 +93,14 @@ header {
 }
 
 header #avatar {
-    min-width: 200px;
-    max-width: 260px;
+    min-width: 180px;
+    max-width: 240px;
     width: 25%;
     height: auto;
 }
 
 header .container {
-    padding-top: 50px;
+    padding-top: 75px;
     padding-bottom: 50px;
 }
 
