@@ -68,6 +68,10 @@ hr.star-light:after {
     border: 1px solid white;
 }
 
+hr.star-light.noBorder:after {
+    border: 0;
+}
+
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
 }
@@ -175,6 +179,7 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar .navbar-nav li a:hover {
 .navbar-default,
 .navbar-inverse {
     border: 0;
