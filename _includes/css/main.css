@@ -180,6 +180,9 @@ header .intro-text .skills {
 }
 
 .navbar .navbar-nav li a:hover {
+    color: #{{ site.color.secondary-dark }};
+}
+
 .navbar-default,
 .navbar-inverse {
     border: 0;
@@ -187,6 +190,11 @@ header .intro-text .skills {
 
 section {
     padding: 100px 0;
+}
+
+section#about {
+    background: #{{ site.color.primary }} url('./img/background.jpg') center center fixed;
+    background-size: cover;
 }
 
 section h2 {
