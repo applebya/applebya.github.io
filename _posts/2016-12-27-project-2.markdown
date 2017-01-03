@@ -1,12 +1,13 @@
 ---
 layout: default
-modal-id: 2
+title: Lonza Virtual Tours
+modal-id: 3
 date: 2014-07-17
 img: lonza.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Mid-2014
 client: IdDigital
 category: PHP, MySQL, HTML5, Graphic/Responsive Design, Google Analytics, Pano2VR
-description: Conversion of >300 high-quality panoramas from Flash to a mobile-friendly implementation of HTML5 & Javascript, plus various fixes/improvements around the PHP codebase. Made UI responsive down to small tablets, while smartphone browsers are redirected to a simplified mobile website.
+description: Conversion of over 300 high-quality panoramas from Flash, to a more mobile-friendly implementation with HTML5 & Javascript, plus various fixes/improvements around the PHP codebase. Made UI responsive down to small tablets, while smartphone browsers are redirected to a simplified mobile website.
 
 ---

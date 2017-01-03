@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Les Fêtes Gourmandes
 modal-id: 5
 date: 2014-07-14
 img: fetes.jpg
-alt: image-alt
+alt: Les Fêtes Gourmandes
 project-date: April 2014
 client: Master Mobile Marketing
 category: Mobile Marketing, Campaign & Graphic Design, Mobile Web Design
-description: I was tasked to lead our company's first major festival campaign for Les Fêtes Gourmandes in Lasalle QC, a yearly 3-day food festival - right up my alley! We prepared a full concept presentation, and proceeded to design & develop all of the signage, SMS, and web components for each attraction in the festival. Our signage funnelled people into the mobile campaign, provided a mobile guide, and notified them of scheduled deals & giveaways by SMS. The campaign captured a significant share of visitors, and had a big impact on engagement and return visits.
+description: I was tasked to lead our company's first major festival campaign for Les Fêtes Gourmandes in Lasalle QC, a yearly 3-day food festival... right up my alley! <br><br>We prepared a full concept presentation, and proceeded to design & develop all of the signage, SMS, and web components for each attraction in the festival. Our signage funnelled people into the mobile campaign, provided a mobile guide, and notified them of scheduled deals & giveaways by SMS. The campaign captured a significant share of visitors, and made an impact on engagement and return visitors.
 
 ---
