@@ -389,6 +389,10 @@ footer .footer-below {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
+    color: white !important;
+}
+.btn-social:hover {
+    color: #{{ site.color.primary }} !important;;
 }
 
 .btn:focus,
