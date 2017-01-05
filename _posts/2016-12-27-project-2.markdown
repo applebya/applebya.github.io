@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lonza Virtual Tours
-modal-id: 3
+modal-id: 2
 date: 2014-07-17
 img: lonza.jpg
 alt: image-alt
