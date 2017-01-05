@@ -20,9 +20,10 @@ a,
 a:hover,
 a:focus,
 a:active,
+a:visited,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
 }
 
 h1,
@@ -165,6 +166,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    color: white !important;
 }
 
 .navbar a:focus {
@@ -179,8 +181,16 @@ header .intro-text .skills {
     outline: 0;
 }
 
-.navbar .navbar-nav li a:hover {
-    color: #{{ site.color.secondary-dark }};
+.btn.btn-outline {
+    color: white;
+}
+
+.btn.btn-outline:hover {
+    color: #{{ site.color.primary }};
+}
+
+.navbar a:hover {
+    color: #{{ site.color.secondary-dark }} !important;
 }
 
 .navbar-default,
@@ -469,6 +479,11 @@ footer .footer-below {
 
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
+    color: white !important;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default a:focus {
+    color: white !important;
 }
 
 /* Fix modal mouse wheel issues */
