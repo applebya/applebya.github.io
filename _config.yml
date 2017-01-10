@@ -1,8 +1,9 @@
 # Site settings
 title: Andrew Appleby
 email: andrewappleby22@gmail.com
-url: https://applebya.github.io
-description: Freelance javascript developer & designer based out of Victoria, BC
+url: https://applebya.com
+description: Full-stack javascript developer & UI designer based out of Victoria, BC
+keywords: javascript, javascript developer, web development, web developer, freelance, html, css, php, ruby, app development, victoria
 skills: "JS Developer  -  UI Designer  -  Nice Dude"
 meta_author: Appleby Andrew
 
