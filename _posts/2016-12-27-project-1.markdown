@@ -8,6 +8,6 @@ alt: KoNote
 project-date: 2014 - current
 client: KoNote
 category: Desktop App Development, NWjs, React, DB Architecture
-description: My main focus since 2014, KoNote (<a href="https://konote.ca/" target="_blank">https://konote.ca/</a>) is a "client-centred instrument of collaborative care", which facilitates the tracking of both quantitative + qualitatative data at the same time, and powerful analytical tools to aid in ongoing treatment. I contributed to all parts of this app, including all major features, and helped build its custom database. It is currently piloting in several mental health centres, with a public release scheduled for 2017.
+description: My main focus since 2014, KoNote (<a href="https://konote.ca/" target="_blank">https://konote.ca/</a>) is a "client-centred instrument of collaborative care", which facilitates the tracking of both quantitative + qualitative data at the same time, and powerful analytical tools to aid in ongoing treatment. I contributed to all parts of this app, including all major features, and helped build its custom database. It is currently piloting in several mental health centres, with a public release scheduled for 2017.
 
 ---
